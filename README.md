@@ -1,6 +1,6 @@
 # Xenopay Portal
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ggabrielgomes2008-hue/xenopay-premium-portal)
 
 A production-ready full-stack application built with Cloudflare Workers, React, and Convex. Features secure user authentication, file upload/storage, and a modern responsive UI. Deploy instantly to Cloudflare's global edge network.
 
@@ -96,7 +96,7 @@ Or manually:
 
 **Custom Domain**: Update `wrangler.jsonc` and run `wrangler deploy`.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ggabrielgomes2008-hue/xenopay-premium-portal)
 
 **Production Config**:
 - Set secrets: `wrangler secret put ANDROMO_SMTP_URL`
